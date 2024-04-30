@@ -1,1 +1,1 @@
-# web
+# display photos in uniform size
